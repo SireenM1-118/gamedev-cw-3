@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class اش : MonoBehaviour
+public class HACKER : MonoBehaviour
 {
 
     int level;
